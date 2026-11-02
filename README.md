@@ -4,7 +4,7 @@ Lv4 이상 크리에이터를 50명 단위 태그로 관리하고, 보루피린�
 
 ## 다른 Windows PC에서 시작
 
-1. 이 비공개 저장소에 접근 가능한 GitHub 계정으로 clone합니다.
+1. [ZIP 다운로드](https://codeload.github.com/minjun7178/celdyque-tiktok-outreach/zip/refs/heads/main) 후 압축을 풀거나 저장소를 clone합니다. 다운로드에는 GitHub 로그인이 필요 없습니다.
 2. Codex에서 clone한 폴더를 프로젝트로 열고 **“시작해줘”**라고 입력합니다.
 3. 프로젝트 지침에 따라 설치 상태를 확인하고, 필요하면 의존성을 설치합니다.
 4. 전용 Chrome에서 TikTok 로그인·OTP·CAPTCHA를 직접 완료합니다.

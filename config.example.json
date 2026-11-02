@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "campaign_id": "vvip-lv4-2026-11-02",
+  "shop_name": "CELDYQUE",
+  "shop_id": "8651858975596646872",
+  "shop_region": "US",
+  "template_id": "7688275903915443982",
+  "invitation_name": "11.02",
+  "start_date": "2026-11-02",
+  "duration_days": 35,
+  "valid_until_iso": "2026-12-07",
+  "minimum_creator_level": 4,
+  "tag_family": "lv4up",
+  "tag_snapshot": "data/lv4up-tags.json",
+  "from": "lv4up1",
+  "to": "lv4up41",
+  "invitation_text": "🔥 50% COMMISSION + VIDEO BOOSTING! 🔥\n\nHi! This is the CELDYQUÉ Manager! 💕\n\n💎 You're invited to our EXCLUSIVE VVIP Collaboration with an incredible 50% commission for 5 weeks! Plus, we'll boost your videos to help maximize your sales! 🚀\n\nIf your content performs well, we'd love to continue our partnership with great benefits beyond the 5 weeks!\n\n⏰ LIMITED SPOTS AVAILABLE! Accept your invitation ASAP to secure your 50% commission!\n\nDon't miss out on this exclusive opportunity! 💖",
+  "message_text": "Hi! 💕 We're sending you exclusive **50% commission product cards for our Volufiline and Blue Copper Peptide Serum!** 🔥\n\n⏰ **Limited spots available!** Please accept your invitations ASAP to secure these special offers. Don't miss out! 💖",
+  "share_to_im": true,
+  "products": [
+    {
+      "id": "1731757173019480536",
+      "label": "보르피린",
+      "name": "[CELDYQUE] Volufiline 100% Pure Concentrate Serum Set of 2 | K-Beauty Plumping Skincare for Smile Lines & Under Eyes | 10ml x2",
+      "standard_commission_rate": 50,
+      "shop_ads_commission_rate": 15
+    },
+    {
+      "id": "1732507686646485464",
+      "label": "카퍼펩",
+      "name": "[CELDYQUE] Blue Copper Peptide Daily Serum - Bakuchiol, GHK-Cu, Matrixyl 3000, EGF, 12 Peptides for Skin Repair, Plumper & Firmer Look - Dry & All Skin Types - 1 fl oz (30ml),blue copper peptide serum",
+      "standard_commission_rate": 50,
+      "shop_ads_commission_rate": 15
+    }
+  ],
+  "sample_policy": "PRODUCT_LEVEL",
+  "allow_partial_recipients": true
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "campaign_id": "vvip-lv4-2026-11-02",
+    "date": "2026-11-02",
+    "shop_id": "8651858975596646872",
+    "from": "lv4up1",
+    "to": "lv4up41",
+    "tag_count": 41,
+    "invitation_recipients": 2019,
+    "message_share_recipients": 1689,
+    "message_delivered": 275,
+    "message_restricted": 20,
+    "message_unverified": 1394,
+    "note": "Completed invitation run. Never recreate this campaign on a fresh installation. Full private evidence remains on the original computer."
+  }
+]

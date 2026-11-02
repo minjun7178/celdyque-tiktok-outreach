@@ -1,0 +1,30 @@
+{
+  "name": "celdyque-tiktok-outreach",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CELDYQUE TikTok creator tagging and two-product Target Collaboration, operated through the official Chrome UI",
+  "engines": {
+    "node": ">=22.14"
+  },
+  "scripts": {
+    "start": "node scripts/project.mjs start",
+    "doctor": "node scripts/project.mjs doctor",
+    "config": "node scripts/project.mjs show",
+    "login": "node scripts/project.mjs login",
+    "plan": "node scripts/project.mjs plan",
+    "preflight": "node scripts/project.mjs preflight",
+    "send": "node scripts/project.mjs run",
+    "status": "node scripts/project.mjs status",
+    "tags:lv4:plan": "node scripts/lv4up-tagging.mjs plan",
+    "tags:lv4:run": "node scripts/lv4up-tagging.mjs run",
+    "tags:lv4:status": "node scripts/lv4up-tagging.mjs status",
+    "tags:lv3:plan": "node scripts/lv3up-tagging.mjs plan",
+    "tags:lv3:run": "node scripts/lv3up-tagging.mjs run",
+    "tags:lv3:status": "node scripts/lv3up-tagging.mjs status",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.63.0"
+  }
+}

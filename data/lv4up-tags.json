@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "workflow": "LV4UP_TAGGING",
+  "status": "COMPLETE",
+  "shop_id": "8651858975596646872",
+  "min_level": 4,
+  "max_level": null,
+  "snapshot_only": true,
+  "observed_at": "2026-10-30",
+  "note": "Tag names and counts only; current membership is verified in TikTok at selection time. Not a tagging-resume checkpoint.",
+  "tags": [
+    {
+      "name": "lv4up1",
+      "count": 50
+    },
+    {
+      "name": "lv4up2",
+      "count": 50
+    },
+    {
+      "name": "lv4up3",
+      "count": 50
+    },
+    {
+      "name": "lv4up4",
+      "count": 50
+    },
+    {
+      "name": "lv4up5",
+      "count": 50
+    },
+    {
+      "name": "lv4up6",
+      "count": 50
+    },
+    {
+      "name": "lv4up7",
+      "count": 50
+    },
+    {
+      "name": "lv4up8",
+      "count": 50
+    },
+    {
+      "name": "lv4up9",
+      "count": 50
+    },
+    {
+      "name": "lv4up10",
+      "count": 50
+    },
+    {
+      "name": "lv4up11",
+      "count": 50
+    },
+    {
+      "name": "lv4up12",
+      "count": 50
+    },
+    {
+      "name": "lv4up13",
+      "count": 50
+    },
+    {
+      "name": "lv4up14",
+      "count": 50
+    },
+    {
+      "name": "lv4up15",
+      "count": 50
+    },
+    {
+      "name": "lv4up16",
+      "count": 50
+    },
+    {
+      "name": "lv4up17",
+      "count": 50
+    },
+    {
+      "name": "lv4up18",
+      "count": 50
+    },
+    {
+      "name": "lv4up19",
+      "count": 50
+    },
+    {
+      "name": "lv4up20",
+      "count": 50
+    },
+    {
+      "name": "lv4up21",
+      "count": 50
+    },
+    {
+      "name": "lv4up22",
+      "count": 50
+    },
+    {
+      "name": "lv4up23",
+      "count": 50
+    },
+    {
+      "name": "lv4up24",
+      "count": 50
+    },
+    {
+      "name": "lv4up25",
+      "count": 50
+    },
+    {
+      "name": "lv4up26",
+      "count": 50
+    },
+    {
+      "name": "lv4up27",
+      "count": 50
+    },
+    {
+      "name": "lv4up28",
+      "count": 50
+    },
+    {
+      "name": "lv4up29",
+      "count": 50
+    },
+    {
+      "name": "lv4up30",
+      "count": 50
+    },
+    {
+      "name": "lv4up31",
+      "count": 50
+    },
+    {
+      "name": "lv4up32",
+      "count": 50
+    },
+    {
+      "name": "lv4up33",
+      "count": 50
+    },
+    {
+      "name": "lv4up34",
+      "count": 50
+    },
+    {
+      "name": "lv4up35",
+      "count": 50
+    },
+    {
+      "name": "lv4up36",
+      "count": 50
+    },
+    {
+      "name": "lv4up37",
+      "count": 50
+    },
+    {
+      "name": "lv4up38",
+      "count": 50
+    },
+    {
+      "name": "lv4up39",
+      "count": 50
+    },
+    {
+      "name": "lv4up40",
+      "count": 50
+    },
+    {
+      "name": "lv4up41",
+      "count": 36
+    }
+  ]
+}

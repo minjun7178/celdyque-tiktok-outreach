@@ -1,0 +1,67 @@
+{
+  "source_repository": "minjun7178/DEV_CELDYQUE",
+  "source_directory": "tiktok_api/creator_manage",
+  "extracted_at": "2026-11-02T04:48:52.307Z",
+  "files": [
+    {
+      "path": "scripts/browser-profile.mjs",
+      "sha256": "774e3fcf3ffdc18c489ee9330d7cbb774d9609b5ada20cba4b29972752853dd7"
+    },
+    {
+      "path": "scripts/target-invitation-core.mjs",
+      "sha256": "3a591ced9ed16e5f940d5cd2e7096c3d3e86d65eb34db3262d707f8f489d6738"
+    },
+    {
+      "path": "scripts/target-invitation-runner.mjs",
+      "sha256": "6672ee70346bbfeafb964f70c67873314226bb339fbf58667dd7f14cf0c4cc0c"
+    },
+    {
+      "path": "scripts/invitation-products.mjs",
+      "sha256": "fb5b4f760c6df5f6af4ccafa0bee6f04b41c0842203f6b128a68dd67d601fcac"
+    },
+    {
+      "path": "scripts/lv4-vvip-core.mjs",
+      "sha256": "b11f2ce33329d84fcdd8152e1ef460fb8199803c30cd50ba28fcbc3a41400c5c"
+    },
+    {
+      "path": "scripts/lv3up-core.mjs",
+      "sha256": "213450c41e4e52a6574b6c59d3f2f4443cc15b3d89a84f19c466275a60051bab"
+    },
+    {
+      "path": "scripts/lv3up-tagging.mjs",
+      "sha256": "49acb457cca4431ad5ca94ff7a457b1b268ef8b4c7792a3c121972471eb9df8d"
+    },
+    {
+      "path": "scripts/lv3-source-filter.mjs",
+      "sha256": "c251911eb64579cce0ef236d382b1d7f77f0ddbeaf5c70a4c69b07cda902b080"
+    },
+    {
+      "path": "scripts/lv4up-tagging.mjs",
+      "sha256": "e26929ce5a98dde0394d5db66d08658abc543b3cb54242b9ba53a0cca3b7580a"
+    },
+    {
+      "path": "scripts/gen-tagging.mjs",
+      "sha256": "0ae022b41ada2822e4c3571cb4b44330553b99e8cb522a093e8958de784a3940"
+    },
+    {
+      "path": "scripts/gen-tagging-core.mjs",
+      "sha256": "5cb25200e6954e633ff90d06739b9dbec7f3b36496cbcecd696e9e508438b269"
+    },
+    {
+      "path": "test/target-invitation.test.mjs",
+      "sha256": "f5cbcb0d57505dfbce29cc4b3c2cdc43c5818d1ef21a8a06aa945ca82cc7311c"
+    },
+    {
+      "path": "test/lv3up.test.mjs",
+      "sha256": "b0040b1cf22f12288f163a867d7e575976a8809d0e53814f6c033d148de5039c"
+    }
+  ],
+  "excluded": [
+    "browser profiles and cookies",
+    "tokens and credentials",
+    "execution checkpoints and evidence",
+    "creator identity lists",
+    "SQLite databases",
+    "morning reports, GMV and EUKA projects"
+  ]
+}

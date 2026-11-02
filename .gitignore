@@ -1,0 +1,17 @@
+node_modules/
+.local/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+*.png
+*.har
+*.zip
+playwright-report/
+test-results/
+credentials/
+cookies*
+tokens*
